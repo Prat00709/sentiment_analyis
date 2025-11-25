@@ -22,7 +22,7 @@ col1, col2 = st.columns(2)
 # ---------------------------------------------------
 with col1:
     st.header("Preprocessing")
-    st.write("Runs run_preprocessing() inside data_collection_and_processing_.py")
+    st.write("Runs run_preprocessing() inside data_collection_and_processing.py")
 
     if st.button("Run Preprocessing"):
         try:
