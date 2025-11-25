@@ -6,3 +6,8 @@ scikit-learn
 joblib
 nltk
 seaborn
+requests
+beautifulsoup4
+lxml
+python-dateutil
+tqdm
